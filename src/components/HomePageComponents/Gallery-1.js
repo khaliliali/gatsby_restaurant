@@ -3,7 +3,7 @@ import styled from "styled-components"
 import { StaticQuery, graphql } from "gatsby"
 import { styles, Section } from "../../utils"
 import Img from "gatsby-image"
-import { colors } from "../../utils/styles"
+// import { colors } from "../../utils/styles"
 
 const GET_IMAGES = graphql`
 {
